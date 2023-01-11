@@ -1,9 +1,10 @@
  import './App.css';
-import Home from './views/Home';
+//import Home from './views/Home';
+import ToDoAnalytics from './views/ToDoAnalytics';
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <ToDoAnalytics/>
     </div>
   );
 }
